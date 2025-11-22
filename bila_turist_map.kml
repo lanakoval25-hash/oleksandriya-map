@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Туристична карта Білоцерківської громади</name>
+
+    <!-- Мазепинці -->
+    <Placemark>
+      <name>Мазепинці</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Історія<br>
+        <p>Родове село Івана Мазепи. Відоме козацькими традиціями та пам’ятниками.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5_%D0%9C%D0%B0%D0%B7%D0%B5%D0%BF%D0%B8%D0%BD%D1%86%D1%96.jpg" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.23222,49.86972,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Вільна Тарасівка -->
+    <Placemark>
+      <name>Вільна Тарасівка</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Село громади<br>
+        <p>Село засноване у XIX столітті. Входило до старостинського округу Білої Церкви.</p>
+        <img src="https://picsum.photos/200/150?random=51" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.22000,49.86000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Сидори -->
+    <Placemark>
+      <name>Сидори</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Село громади<br>
+        <p>Старовинне село, відоме місцевими ремісниками та землеробством.</p>
+        <img src="https://picsum.photos/200/150?random=52" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>29.98713,49.93488,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Дрозди -->
+    <Placemark>
+      <name>Дрозди</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Природа<br>
+        <p>Село із давньою історією, названа на честь птахів-дроздів.</p>
+        <img src="https://picsum.photos/200/150?random=53" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.01000,49.88000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Терезине -->
+    <Placemark>
+      <name>Терезине</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Село громади<br>
+        <p>Назва походить від старовинного слова «терези». Історично розташоване на перехресті торгових шляхів.</p>
+        <img src="https://picsum.photos/200/150?random=54" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.05000,49.82000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Володимирівка -->
+    <Placemark>
+      <name>Володимирівка</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Село громади<br>
+        <p>Село засноване у XVIII столітті. Відоме старовинною церквою та традиційними обрядами.</p>
+        <img src="https://picsum.photos/200/150?random=55" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.10000,49.80000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Гайок -->
+    <Placemark>
+      <name>Гайок</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Природа<br>
+        <p>Розташоване серед лісів. Історично використовувалося як місце мисливських угідь.</p>
+        <img src="https://picsum.photos/200/150?random=56" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.13000,49.81000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Глибочка -->
+    <Placemark>
+      <name>Глибочка</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Село громади<br>
+        <p>Глибочка відома з ХІХ століття як маленьке поселення серед полів і лісів.</p>
+        <img src="https://picsum.photos/200/150?random=57" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>29.98000,49.78000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Городище -->
+    <Placemark>
+      <name>Городище</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Історія<br>
+        <p>Село має історичне походження від стародавніх укріплень.</p>
+        <img src="https://picsum.photos/200/150?random=58" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>29.96000,49.77000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Пилипча -->
+    <Placemark>
+      <name>Пилипча</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Історія<br>
+        <p>Село виникло як козацька слобода та зберегло елементи традиційної забудови.</p>
+        <img src="https://picsum.photos/200/150?random=59" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.02000,49.76000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Томилівка -->
+    <Placemark>
+      <name>Томилівка</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Село громади<br>
+        <p>Село з сільськогосподарським корінням. Відоме традиційними обрядами та святами.</p>
+        <img src="https://picsum.photos/200/150?random=60" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.06000,49.74000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Шкарівка -->
+    <Placemark>
+      <name>Шкарівка</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Архітектура<br>
+        <p>Село з історичною церквою та дзвоном. Архітектурна спадщина з XVIII століття.</p>
+        <img src="https://picsum.photos/200/150?random=61" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.08000,49.75000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Глушки -->
+    <Placemark>
+      <name>Глушки</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Природа<br>
+        <p>Село розташоване біля лісу, відоме мисливськими угіддями та природою.</p>
+        <img src="https://picsum.photos/200/150?random=62" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.09000,49.73500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Храпачі -->
+    <Placemark>
+      <name>Храпачі</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Архітектура<br>
+        <p>Село із давнім городищем. Археологічні знахідки свідчать про стародавнє поселення.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Khrapachi_church.jpg" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.23222,49.86972,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Піщана -->
+    <Placemark>
+      <name>Піщана</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Природа<br>
+        <p>Назва походить від піщаних дюн, що були характерні для місцевості.</p>
+        <img src="https://picsum.photos/200/150?random=63" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.05000,49.78000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Скребиші -->
+    <Placemark>
+      <name>Скребиші</name>
+      <description><![CDATA[
+        <b>Категорія:</b> Село громади<br>
+        <p>Село з традиційним сільським господарством. Відоме обробкою землі та колосовими традиціями.</p>
+        <img src="https://picsum.photos/200/150?random=64" width="200">
+      ]]></description>
+      <Point>
+        <coordinates>30.07000,49.79000,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
